@@ -1,6 +1,6 @@
 # Fast Optical Mode Sorting and Generation
 
-Check out the [paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-20-29112&id=439700)! ([PDF version]())
+Check out the [paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-20-29112&id=439700)! ([PDF version](http://www.boydnlo.ca/wp-content/uploads/2020/09/oe-28-20-29112.pdf))
 
 ## Overview
 
