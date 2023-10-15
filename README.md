@@ -6,4 +6,6 @@ I am a first-year PhD student at the [University of Toronto](https://www.utoront
 
 ## Projects
 
-...
+[Fast Optical Mode Sorting & Generation](mode_sorting.md) 
+
+[Loop-based Photon Counting](loop_detector.md)
